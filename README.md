@@ -23,11 +23,11 @@
 <p align="center">
   <a href="#Funcionalidades">Funcionalidades</a>
   •
-  <a href="#installation">Instalação</a>
+  <a href="#instalação">Instalação</a>
   •
-  <a href="#join-the-community">Suporte</a>
+  <a href="#suporte">Suporte</a>
   •
-  <a href="#license">Licença</a>
+  <a href="#licença">Licença</a>
 </p>
 
 # Funcionalidades

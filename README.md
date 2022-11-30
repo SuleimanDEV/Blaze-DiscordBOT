@@ -32,10 +32,8 @@
 
 # Funcionalidades
 
-Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your
-liking, making it completely customizable. This is a *self-hosted bot* – meaning you will need
-to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot,
-new best friend or all of these together!  
+O BlazeBOT é um bot totalmente modular - o que significa que todos os recursos e comandos podem ser ativados/desativados para o seu
+gostar, tornando-o totalmente personalizável. Este é um *bot open-source* - você consegue efetuar a instalação e modificações no seu pc.
 
 **Algumas funcionalidades pré-escritas abaixo:**
 

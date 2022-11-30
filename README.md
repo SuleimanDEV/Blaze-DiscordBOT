@@ -1,17 +1,14 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="BLAZE - Discord Bot"></a>
+  <a href="https://github.com/SuleimanDEV/BOT---Discord-BLAZE"><img src="https://imgur.com/xW5Ya5t.jpeg" alt="BLAZE - Discord Bot"></a>
   <br>
-  Red Discord Bot
+  Bot de discord - BLAZE
   <br>
 </h1>
 
-<h4 align="center">Music, Moderation, Trivia, Stream Alerts and Fully Modular.</h4>
+<h4 align="center">API BLAZE, SISTEMAS DE CONSULTAS</h4>
 
 <p align="center">
-  <a href="https://discord.gg/red">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
-  </a>
   <a href="https://pypi.org/project/Red-DiscordBot/">
      <img alt="PyPI" src="https://img.shields.io/pypi/v/Red-Discordbot">
   </a>

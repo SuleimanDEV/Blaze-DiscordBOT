@@ -9,9 +9,6 @@
 <h4 align="center">API BLAZE, SISTEMAS DE CONSULTAS</h4>
 
 <p align="center">
-  <a href="https://pypi.org/project/Red-DiscordBot/">
-     <img alt="PyPI" src="https://img.shields.io/pypi/v/Red-Discordbot">
-  </a>
   <a href="https://www.python.org/downloads/">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
   </a>
@@ -26,15 +23,11 @@
 <p align="center">
   <a href="#Funcionalidades">Funcionalidades</a>
   •
-  <a href="#installation">Installation</a>
+  <a href="#installation">Instalação</a>
   •
-  <a href="http://docs.discord.red/en/stable/index.html">Documentation</a>
+  <a href="#join-the-community">Suporte</a>
   •
-  <a href="#plugins">Plugins</a>
-  •
-  <a href="#join-the-community">Community</a>
-  •
-  <a href="#license">License</a>
+  <a href="#license">Licença</a>
 </p>
 
 # Funcionalidades
@@ -57,45 +50,23 @@ new best friend or all of these together!
 
 **Lembrando que algumas consultas é necessário efetuar a troca de API para que funcione corretamente.**
 
-# Installation
+# Instalação
 
-**The following platforms are officially supported:** 
+**Etapas de instalação abaixo:** 
 
-- [Windows](https://docs.discord.red/en/stable/install_guides/windows.html)
-- [MacOS](https://docs.discord.red/en/stable/install_guides/mac.html)
-- [Most major linux distributions](https://docs.discord.red/en/stable/install_guides/index.html)
+- 1º Instale o python em sua máquina e efetue a instação do mesmo.
+- 2ª Baixe o repositorio do bot e extraia o arquivo.
+- 3º Modifique as informações necessárias em "main.py" incluindo o TOKEN do bot. ( LINE 300 )
+- 4ª Em seguida use abra o CMD na pasta e efetue o comando "pip install -r requirements.txt"
+- 5ª Enfim use o comando "py main.py" e usufrua digninamente do bot.
 
-If after reading the guide you are still experiencing issues, feel free to join the
-[Official Discord Server](https://discord.gg/red) and ask in the **#support** channel for help.
+Lembrando, é necessário efetuar a troca de algumas API no sistema do bot, isso é por sua responsabilidade.
 
-# Plugins
+# Suporte
 
-Red is fully modular, allowing you to load and unload plugins of your choice, and install 3rd party
-plugins directly from Discord! A few examples are:
+Qualquer suporte entre em contato no discord. **Suleiman.#5850**
 
-- Cleverbot integration (talk to Red and she talks back)
-- Ban sync
-- Welcome messages
-- Casino
-- Reaction roles
-- Slow Mode
-- AniList
-- And much, much more!
-
-Feel free to take a [peek](https://index.discord.red) at a list of
-available 3rd party cogs!
-
-# Join the community!
-
-**Red** is in continuous development, and it’s supported by an active community which produces new
-content (cogs/plugins) for everyone to enjoy. New features are constantly added. If you can’t
-[find](https://index.discord.red) the cog you’re looking for,
-consult our [guide](https://docs.discord.red/en/stable/guide_cog_creation.html) on
-building your own cogs!
-
-Join us on our [Official Discord Server](https://discord.gg/red)!
-
-# License
+# Licença
 
 Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 

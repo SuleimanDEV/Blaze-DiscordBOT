@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/SuleimanDEV/BOT---Discord-BLAZE"><img src="https://imgur.com/xW5Ya5t.jpeg" alt="BLAZE - Discord Bot"></a>
+  <a href="https://github.com/SuleimanDEV/Blaze-DiscordBOT"><img src="https://imgur.com/xW5Ya5t.jpeg" alt="BLAZE - Discord Bot"></a>
   <br>
   Bot de discord - BLAZE
   <br>

@@ -68,13 +68,6 @@ Qualquer suporte entre em contato no discord. **Suleiman.#5850**
 
 # Licença
 
-Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
+lançado sob o [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) licença
 
-Red is named after the main character of "Transistor", a video game by
-[Super Giant Games](https://www.supergiantgames.com/games/transistor/).
-
-Artwork created by [Sinlaire](https://sinlaire.deviantart.com/) on Deviant Art for the Red Discord
-Bot Project.
-
-This project vendors [discord.ext.menus](https://github.com/Rapptz/discord-ext-menus) package made by Danny Y. (Rapptz) which is distributed under MIT License.
-A copy of this license can be found in the [discord-ext-menus.LICENSE](redbot/vendored/discord-ext-menus.LICENSE) file in the [redbot/vendored](redbot/vendored) folder of this repository.
+Este projeto fornecedores tem como intuito ajudar membros da comunidade **DISCORD** com funcionalidades, api´s e sistemas inovadores na comunidade, qualquer duvida contatar o suporte desse sistema.
